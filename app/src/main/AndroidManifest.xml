@@ -7,7 +7,7 @@
     <application
         android:allowBackup="true"
         android:icon="@drawable/flypresslogo"
-        android:label="@string/app_name"
+        android:label="FYIPress"
         android:roundIcon="@drawable/flypresslogo"
         android:supportsRtl="true"
         android:usesCleartextTraffic="true"
