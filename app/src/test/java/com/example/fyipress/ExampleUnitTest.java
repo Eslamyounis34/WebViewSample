@@ -1,4 +1,4 @@
-package com.example.webviewsample;
+package com.example.fyipress;
 
 import org.junit.Test;
 

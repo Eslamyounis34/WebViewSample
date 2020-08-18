@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "266353543307",
+    "firebase_url": "https://fyipress-android-app.firebaseio.com",
+    "project_id": "fyipress-android-app",
+    "storage_bucket": "fyipress-android-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:266353543307:android:44a4e7ff439abdeeb06c8e",
+        "android_client_info": {
+          "package_name": "com.example.fyipress"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "266353543307-20fmar2b4dqr365s4nqmvt79asr929ac.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvanXTaG_YBbeHPRjK_uYwEnPdWxZ92Xk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "266353543307-20fmar2b4dqr365s4nqmvt79asr929ac.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
